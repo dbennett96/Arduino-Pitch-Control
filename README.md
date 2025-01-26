@@ -14,7 +14,7 @@ This project not only allowed me to explore embedded systems and real-time progr
 
 ## Wiring Diagram
 
-![Wiring Diagram](pitch ctrl wiring.png)
+![Wiring Diagram](pitch%20ctrl%20wiring.png)
 
 ## Components Used
 
