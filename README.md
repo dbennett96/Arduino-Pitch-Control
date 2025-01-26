@@ -10,6 +10,8 @@ The system combines various components, including sensors, an actuator, and a us
 
 This project not only allowed me to explore embedded systems and real-time programming concepts but also provided hands-on experience in combining hardware and software to solve practical challenges.
 
+## Video Demonstration
+
 [![Project Demo](https://img.youtube.com/vi/Yk2QcMZHw5w/0.jpg)](https://youtu.be/Yk2QcMZHw5w)
 
 ## Wiring Diagram
