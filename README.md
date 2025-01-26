@@ -14,7 +14,7 @@ This project not only allowed me to explore embedded systems and real-time progr
 
 ## Wiring Diagram
 
-![Wiring Diagram](assets/pitch_ctrl_wiring.png)
+![Wiring Diagram](pitch ctrl wiring.png)
 
 ## Components Used
 
@@ -110,9 +110,9 @@ The full source code can be found in the [arduino_pitch_ctrl_v1.0.ino](arduino_p
 - Arduino `LiquidCrystal` library
 
 ## Project Photos
-![Project view 1](assets/IMG_9490.png)
-![Project view 2](assets/IMG_9491.png)
-![Project view 3](assets/IMG_9492.png)
+![Project view 1](IMG_9490.JPEG)
+![Project view 2](IMG_9491.JPEG)
+![Project view 3](IMG_9492.JPEG)
 
 ## Debrief
 Overall this project took me about 30 hours of working time over a 3-day weekend. The majority of my time was spent debugging and adjusting my code. I hope to apply what I gained from this project to a more complex and fully functional project. Some ideas I'd like to work on next include a tabletop vechicle docking mechanism to emulate spacecraft docking, as well as a quad rotor drone. I'd also like to explore combining the two to create a drone docking mechanism. 
